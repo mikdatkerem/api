@@ -1,0 +1,15 @@
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\bin\Debug\net10.0\ParkingAPI.Application.deps.json
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\bin\Debug\net10.0\ParkingAPI.Application.dll
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\bin\Debug\net10.0\ParkingAPI.Application.pdb
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\bin\Debug\net10.0\ParkingAPI.Domain.dll
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\bin\Debug\net10.0\ParkingAPI.Domain.pdb
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\obj\Debug\net10.0\ParkingAPI.Application.csproj.AssemblyReference.cache
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\obj\Debug\net10.0\ParkingAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\obj\Debug\net10.0\ParkingAPI.Application.AssemblyInfoInputs.cache
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\obj\Debug\net10.0\ParkingAPI.Application.AssemblyInfo.cs
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\obj\Debug\net10.0\ParkingAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\obj\Debug\net10.0\ParkingA.05B89435.Up2Date
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\obj\Debug\net10.0\ParkingAPI.Application.dll
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\obj\Debug\net10.0\refint\ParkingAPI.Application.dll
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\obj\Debug\net10.0\ParkingAPI.Application.pdb
+C:\Users\mikda\Desktop\api\ParkingAPI.Application\obj\Debug\net10.0\ref\ParkingAPI.Application.dll
